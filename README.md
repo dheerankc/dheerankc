@@ -3,14 +3,15 @@
 
 - 🔭 I’m currently working on [Project Blackwing](https://teamblackwing.github.io/)
 
-- 🌱 I’m currently learning **Python, Autodesk 360 Fusion**
+- 🌱 I’m currently learning **3D modeling with Fusion 360 & Android custom ROM development.**
 
 - 📫 How to reach me **dheerandps@gmail.com**
 
-- ⚡ Fun fact **I'm into everything hardware and software.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/dheeranfx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dheeranfx" height="30" width="40" /></a>
+<a href="https://instagram.com/dra9cu1a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dra9cu1a" height="30" width="40" /></a>
+<a href="https://www.behance.net/dheeranyoutube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="dheeranyoutube" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@cr6w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@cr6w" height="30" width="40" /></a>
 </p>
 
